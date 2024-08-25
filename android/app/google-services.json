@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503667879329",
+    "project_id": "seewithme-efea4",
+    "storage_bucket": "seewithme-efea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503667879329:android:6d656cefe352d79c876fe0",
+        "android_client_info": {
+          "package_name": "com.example.see_with_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4CsXjYajS2ke3HkUW3oM7Oc1uZwMjxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

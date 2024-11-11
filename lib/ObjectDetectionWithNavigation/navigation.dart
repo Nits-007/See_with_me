@@ -91,7 +91,7 @@ class _NavigationScreenState extends State<NavigationScreen> {
     }
 
     final String apiKey =
-        '5b3ce3597851110001cf6248e35f88b97055427aad03e2cde8509e39';
+        '*********';
     final String start =
         '${_currentPosition!.longitude},${_currentPosition!.latitude}';
     print('Starting Location Coordinates: $start');
